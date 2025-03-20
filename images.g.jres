@@ -1,0 +1,31 @@
+{
+    "image1": {
+        "data": "hwQNABAAAAAA8M//APDuAAD/z///7+QA8P/P/+T//wDw//y/Qb9n//////9Pfmf/////7kR+Zw//z+/uRH5nD//M7/9Pfmf/8P//v0G/Z//w///85P//AAD/z/z/7+QAAMDM/wDw7gAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "alex"
+    },
+    "image2": {
+        "data": "hwQNABAAAAAA8M//APDuAAD/z///7+QA8P/P/+T//wDw//y/Qb9n//////9Pfmf/////7kR+Zw//z+/uRH5nD//M7/9Pfmf/8P//v0G/Z//w///85P//AAD/z/z/7+QAAMDM/wDw7gAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "alex0"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw",
+        "displayName": "myAnim"
+    },
+    "anim2": {
+        "namespace": "myAnimations",
+        "id": "anim2",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDBkMDAxMDAwMDMwMDAwMDBmZmZmMDAwMDAwZjBmZmZmZmYwZjAwZjBmZmZmY2ZmZjBmZjBmZmZmY2ZmY2ZmMGNmZmNmZmZmZmZmY2ZjMGNjZmZlZmZlY2YwY2ZmZmZlZmZlY2ZmY2YwZmZmYmVlYmZmZjBmZjAxNDRmZjQ0MTBmMDBlZjQ0NDQ0NGZlMDBmMGZmZWVlZWZmMGZmMGZlN2I3N2I3ZWYwZjRlN2Y3Nzc3ZjdlNGUwZmU2NjY2NjZlZjBlMDBmMGZmZmYwZjAwMDAwMGZmMDBmZjAwMDAwMDAwMDAwMDAwMDAwMDAwMDBmZmZmMDAwMDAwZjBmZmZmZmYwZjAwZjBmZmZmY2ZmZjBmZmZmZmZmY2ZmY2ZmZmNmZmNmZmZmZmZmY2ZjMGNjZmZlZmZlY2YwY2ZmZmZlZmZlY2ZmY2YwZmZmYmVlYmZmZjBmZmYxNDRmZjQ0MWZmMDBlZjQ0NDRlNGZlMGVlZmJmNzdlNzQ0ZTRlMGY0Nzc3NzRlZTQwMDAwNmY2NjY2ZWUwMDAwZjBmZmZmZmYwMDAwMDBmZjBmMDAwMDAwMDAwMDAwMDAwMDAwMDAwMGYwZmYwZjAwMDAwMGZmZmZmZmZmMDAwMGZmY2ZmZmZmZmYwMGZjZmZjY2ZmZmZmZmNmZmZmZmZmY2ZmZmZmY2NmZmVlZmZjZmNjZjBjY2ZmZWVmZmZmMGZmZmJmZWZmZWZiZmZmMDRmZjE0NDFmZjQwZmZlZWU0NDQ0ZTQwZmUwNDRlNDc3YjdlZjBmZTA0NDdlNzdmN2U0MDBlMDZlNjY2NjBmMDAwMGYwZmZmZmZmMDAwMDAwMDAwMGZmMGYwMA==",
+        "displayName": "alex-down"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
